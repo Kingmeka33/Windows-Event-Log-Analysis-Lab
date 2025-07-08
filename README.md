@@ -29,7 +29,7 @@ This pattern suggests **brute-force activity**, often used for initial access. I
 - Enforcing strong password policies  
 - Implementing account lockout mechanisms
 
-📸 *Screenshot:* `Brute Force Query Result`
+<img width="994" height="451" alt="Image" src="https://github.com/user-attachments/assets/ef5565ae-201e-47df-ae71-29d9313f199d" />
 
 ---
 
