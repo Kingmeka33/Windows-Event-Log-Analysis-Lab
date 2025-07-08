@@ -72,8 +72,7 @@ Outbound activity by a compromised root account implies **C2 (Command and Contro
 - IP blocking  
 - Host isolation  
 - Forensic analysis
-
-📸 *Screenshot:* `External Network Communication`
+<img width="2290" height="1096" alt="Image" src="https://github.com/user-attachments/assets/78e4f114-bf73-41d1-b9ef-089a6abcd2dd" />
 
 ---
 
