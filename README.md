@@ -42,7 +42,7 @@ This pattern suggests **brute-force activity**, often used for initial access. I
 **🧠 Insight:**  
 This suggests a **likely brute-force compromise** and would warrant escalation to **incident response** in a real SOC environment.
 
-📸 *Screenshot:* `Successful Login After Failures`
+<img width="2232" height="1034" alt="Image" src="https://github.com/user-attachments/assets/aea971bf-4ba6-447b-908e-e736ae4b1764" />
 
 ---
 
