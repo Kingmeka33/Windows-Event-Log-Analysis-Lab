@@ -56,7 +56,7 @@ This suggests a **likely brute-force compromise** and would warrant escalation t
 **🧠 Insight:**  
 Indicates likely **attacker-driven command execution**. The `/waagent/` activity may signal payload staging or post-exploitation via the Azure guest agent.
 
-📸 *Screenshot:* `Suspicious Process Execution`
+<img width="2264" height="1040" alt="Image" src="https://github.com/user-attachments/assets/7b2828e9-e248-4006-b095-dc01b9e2667c" />
 
 ---
 
